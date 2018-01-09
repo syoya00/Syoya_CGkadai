@@ -2,7 +2,11 @@
 コンピュータグラフィックス特論で作成した課題  
   
 Unityで作成  
-対応HMD：HTCVive
+対応HMD：HTCVive  
+作成：Unity  
+使用したアセット：  
+SteamVR Plugin  
+VRTK - Virtual Reality Toolkit  
 
 ## 概要
 
